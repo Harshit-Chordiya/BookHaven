@@ -13,7 +13,12 @@ const app = express();
 
 // parse Data
 app.use(express.json());
-app.use(cors());
+app.use(
+    cors({
+      origin: ['http://localhost:3001', 'https://book--haven.vercel.app/'], // Your allowed origin
+      credentials: true, // Allow cookies to be sent
+    })
+);
 app.use(express.urlencoded({ extended: true }));
 
 // Use routes
