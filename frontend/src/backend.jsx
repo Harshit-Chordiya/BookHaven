@@ -1,10 +1,10 @@
 import axios from "axios";
 
-export const API = "http://localhost:5000/";
+export const API = "https://book--haven-backend.vercel.app/";
 // export const API = "https://backend-api-jc-production.up.railway.app/";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/",
+  baseURL: "https://book--haven-backend.vercel.app/",
 
   
   // baseURL: "https://backend-api-jc-production.up.railway.app/",
