@@ -15,7 +15,7 @@ const app = express();
 app.use(express.json());
 app.use(
     cors({
-      origin: ['http://localhost:3001', 'https://book--haven.vercel.app/'], // Your allowed origin
+      origin: ['http://localhost:3001', 'https://book--haven.vercel.app'], // Your allowed origin
       credentials: true, // Allow cookies to be sent
     })
 );
