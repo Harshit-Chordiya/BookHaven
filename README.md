@@ -2,7 +2,7 @@
 
 🌐 **Weaving travel memories one booking at a time**
 
-• Welcome to the repository for our BookHaven application! This comprehensive project showcases the power and versatility of the MERN stack by seamlessly facilitating users in their quest to explore, reserve, and luxuriate in exceptional accommodations, this project transcends convention by empowering users to not only reserve but also host their own lodgings.
+• Welcome to the repository for our BookHaven application! This comprehensive project seamlessly facilitates users in their quest to explore, reserve, and luxuriate in exceptional accommodations, this project transcends convention by empowering users to not only reserve but also host their own lodgings.
 
 • Employed MongoDB as a robust backend and fortified data integrity by safeguarding user profiles and transactional
 records. User-friendly Interface and Role-based access control ensures that users can create personalized lists or
